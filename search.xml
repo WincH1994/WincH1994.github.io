@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Git pull and fetch</title>
+      <link href="/2020/07/09/fetch/"/>
+      <url>/2020/07/09/fetch/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Git-pull-and-fetch"><a href="#Git-pull-and-fetch" class="headerlink" title="Git pull and fetch"></a>Git pull and fetch</h1><p>首先要说的是 git 有本地仓库、本地的远程仓库和远程的远程仓库，你修改的代码在本地仓库。</p><p>如果在master 分支 就代表有 master分支，这是一个本地的仓库 ，还有一个本地的远程master仓库和远程的master仓库</p><p>pull的话直接就把远程仓库的代码同步到了本地的远程仓库，然后本地的远程仓库代码合并到本地仓库了</p><p>Fetch的话只是把远程仓库的代码同步到了本地的远程仓库</p><p>就是说 pull = fetch + merge</p><p>That’s all~</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Study </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Git </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hexo Sticking</title>
       <link href="/2020/02/13/HexoSticking/"/>
       <url>/2020/02/13/HexoSticking/</url>
